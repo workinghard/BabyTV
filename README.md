@@ -27,16 +27,17 @@ A 16x16 neopixel matrix with a WS2812B controller is being used as a display. It
 [Full schematics can be found in the project](https://github.com/workinghard/BabyTV/raw/master/Schematics/BabyTV.pdf)
 
 ## Software
-FastLed framework was picked for fast animations. Each channel (Image/Animation) is in a separate c-file. A rotary encoder framework is based on a software scan. A hardware interrupt for RE was not being used to guarantee flawless communication with the display. No additional dependencies are required. Full source code can be found in the project.  
+FastLed framework was picked for fast animations. Each channel (Image/Animation) is in a separate c-file. A rotary encoder framework is based on a software scan. A hardware interrupt for RE was not being used to guarantee flawless communication with the display. No additional dependencies are required. Full source code can be found in the Arduino folder.  
  
 ## 3Dparts
-TODO
+All needed 3D parts can be found in the STL folder. Using PLA filament there should be no dimensional issues. If you are using ABS or any material which shrinks, you will most likely need to scale the parts up.
+
+I printed body and Back with PLA and everything else with ABS on my [Original Prusa i3 MK2S](https://shop.prusa3d.com/en/) 
 
 ----
 
-##Partlist
-
-
+## Partlist
+* 3D printer
 
 [logo]: https://github.com/workinghard/BabyTV/raw/master/images/BabyTV_Icon.png "Logo"
 [demo]: http://img.youtube.com/vi/bw_D5chaiGM/0.jpg "Demo"
