@@ -37,7 +37,15 @@ I printed body and Back with PLA and everything else with ABS on my [Original Pr
 ----
 
 ## Partlist
-* 3D printer
+ * 3D printer with at least 200x200mm build plate [like Original Prusa i3 MK3](https://shop.prusa3d.com/en/) ]
+ * 16x16 pixel board with WS2812B chipset [like this on Amazon](https://www.amazon.com/gp/product/B01DC0IOCK)
+ * Arduino nano with atmega328p chipset [like this on Aliexpress](https://www.aliexpress.com/item/Nano-CH340-ATmega328P-MicroUSB-Compatible-for-Arduino-Nano-V3-0/32740641316.html)
+ * Rotary Encoder [like this on Aliexpress](https://www.aliexpress.com/item/Free-Shipping-10pcs-lot-Rotary-encoder-switch-five-feet-short-handle-Best-quality/32543561073.html)
+ * 2x 100nF Capacitor
+ * 4x 10k Ohm Resistor
+ * Any linear potentiometer
+ * Any infrared receiver
+ 
 
 [logo]: https://github.com/workinghard/BabyTV/raw/master/images/BabyTV_Icon.png "Logo"
 [demo]: http://img.youtube.com/vi/bw_D5chaiGM/0.jpg "Demo"
