@@ -27,11 +27,8 @@ A 16x16 neopixel matrix with a WS2812B controller is being used as a display. It
 [Full schematics can be found in the project](https://github.com/workinghard/BabyTV/raw/master/Schematics/BabyTV.pdf)
 
 ## Software
-TODO 
+FastLed framework was picked for fast animations. Each channel (Image/Animation) is in a separate c-file. A rotary encoder framework is based on a software scan. A hardware interrupt for RE was not being used to guarantee flawless communication with the display. No additional dependencies are required. Full source code can be found in the project.  
  
-
-
-
 ## 3Dparts
 TODO
 
