@@ -41,6 +41,7 @@ I printed body and Back with PLA and everything else with ABS on my [Original Pr
  * 16x16 pixel board with WS2812B chipset [like this on Amazon](https://www.amazon.com/gp/product/B01DC0IOCK)
  * Arduino nano with atmega328p chipset [like this on Aliexpress](https://www.aliexpress.com/item/Nano-CH340-ATmega328P-MicroUSB-Compatible-for-Arduino-Nano-V3-0/32740641316.html)
  * Rotary Encoder [like this on Aliexpress](https://www.aliexpress.com/item/Free-Shipping-10pcs-lot-Rotary-encoder-switch-five-feet-short-handle-Best-quality/32543561073.html)
+ * Power supply [like this on Amazon](https://www.amazon.com/ALITOVE-Transformer-Converter-5-5x2-1mm-100V-240V/dp/B01M0KLECZ)
  * 2x 100nF Capacitor
  * 4x 10k Ohm Resistor
  * Any linear potentiometer
