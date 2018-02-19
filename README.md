@@ -30,7 +30,7 @@ A 16x16 neopixel matrix with a WS2812B controller is being used as a display. It
 FastLed framework was picked for fast animations. Each channel (Image/Animation) is in a separate c-file. A rotary encoder framework is based on a software scan. A hardware interrupt for RE was not being used to guarantee flawless communication with the display. No additional dependencies are required. Full source code can be found in the Arduino folder.  
  
 ## 3Dparts
-All needed 3D parts can be found in the STL folder. Using PLA filament there should be no dimensional issues. If you are using ABS or any material which shrinks, you will most likely need to scale the parts up.
+All needed 3D parts can be found in the STL folder or on [Thingiverse](https://www.thingiverse.com/thing:2790910). Using PLA filament there should be no dimensional issues. If you are using ABS or any material which shrinks, you will most likely need to scale the parts up.
 
 I printed body and Back with PLA and everything else with ABS on my [Original Prusa i3 MK2S](https://shop.prusa3d.com/en/) 
 
